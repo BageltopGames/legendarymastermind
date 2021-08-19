@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Expansion",
     key: "expansion",
     tooltip: "Check this to restrict to specific expansions.",
-    checked: false,
+    checked: true,
     sub: [
       { name: "Core", key: "C" },
       { name: "Dark City", key: "DC" },
@@ -42,536 +42,535 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Doctor Doom",
-    img: "9mUrBIU.jpg",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-doom-01.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Magneto",
-    img: "YBK3QpZ.jpg",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/magneto-01.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Loki",
-    img: "IwiansB.jpg",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/loki-01.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Red Skull",
-    img: "j1VTwE4.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/red-skull-01.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Galactus",
-    img: "NzdWbSc.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/galactus-01.jpg",
     opts: {
       expansion: ["F4"]
     }
   },
    {
     name: "Mole Man",
-    img: "hJWugvw.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/mole-man-01.jpg",
     opts: {
       expansion: ["F4"]
     }
   },
    {
     name: "Apocalypse",
-    img: "5vsO7rI.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/apocalypse-01.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Carnage",
-    img: "CD3y6JM.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/carnage-01.jpg",
     opts: {
       expansion: ["PTTR"]
     }
   },
    {
     name: "Doctor Strange",
-    img: "QTlTvcT.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-strange-01.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Kingpin",
-    img: "lvbptYB.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/kingpin-01.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mephisto",
-    img: "4dbjD8K.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/mephisto-01.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mr. Sinister",
-    img: "gkdKO0e.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/mr-sinister-01.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mysterio",
-    img: "5rk76F3.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/mysterio-01-1.jpg",
     opts: {
       expansion: ["PTTR"]
     }
   },
    {
     name: "Nick Fury",
-    img: "fwodfxi.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/nick-fury-01-1.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Odin",
-    img: "pwPHJfd.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/odin-01.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Professor X",
-    img: "5KFM9G0.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/professor-x-01-1.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Stryfe",
-    img: "mCZriT0.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/stryfe-01.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Adrian Toomes",
-    img: "aNmtKEr.png",
+    img: "https://i.imgur.com/HRtOV0m.jpeg",
     opts: {
       expansion: ["SMH"]
     }
   },
     {
     name: "Arcade",
-    img: "smkjp4v.png",
+    img: "https://i.imgur.com/mpNA0Wi.jpeg",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Authoritarian Iron Man",
-    img: "bXItwUo.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/authoritarian-iron-man-01.jpg",
     opts: {
       expansion: ["CW"]
     }
   },
     {
     name: "Belasco, Demon Lord of Limbo",
-    img: "qnNxIAL.png",
+    img: "https://i.imgur.com/RI3jbkV.jpeg",
     opts: {
       expansion: ["NM"]
     }
   },
     {
     name: "The Beyonder",
-    img: "ESyOc9o.png",
+    img: "https://i.imgur.com/Fh73cMz.jpeg",
     opts: {
       expansion: ["ITC"]
     }
   },
     {
     name: "Dark Phoenix",
-    img: "B4QpaAH.png",
+    img: "https://i.imgur.com/e4waWEr.jpeg",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Deathbird",
-    img: "FTNUQRt.png",
+    img: "https://i.imgur.com/sBJevOt.jpeg",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Emma Frost, The White Queen",
-    img: "PRUVD8k.png",
+    img: "https://i.imgur.com/qnWMu2l.jpeg",
     opts: {
       expansion: ["NM"]
     }
   },
     {
     name: "Evil Deadpool",
-    img: "gLJohsu.png",
+    img: "https://i.imgur.com/hPxoqWt.jpeg",
     opts: {
       expansion: ["DP"]
     }
   },
     {
     name: "Fin Fang Foom",
-    img: "HGalPfZ.png",
+    img: "https://marveldbg.com/wp-content/uploads/2019/09/fin-fang-foom-01.png",
     opts: {
       expansion: ["CHP"]
     }
   },
     {
     name: "The Grandmaster",
-    img: "qNMWbZ0.png",
+    img: "https://i.imgur.com/g0pjsfD.jpeg",
     opts: {
       expansion: ["ITC"]
     }
   },
     {
     name: "Grim Reaper",
-    img: "ilElYcP.png",
+    img: "https://i.imgur.com/Z6bH7RB.jpeg",
     opts: {
       expansion: ["RV"]
     }
   },
     {
     name: "Baron Heinrich Zemo",
-    img: "nCfYoY8.png",
+    img: "https://i.imgur.com/jE99c7j.jpeg",
     opts: {
       expansion: ["CA"]
     }
   },
     {
     name: "Hela, Goddess of Death",
-    img: "Bjfh1Qf.png",
+    img: "https://i.imgur.com/ggOm7qZ.jpeg",
     opts: {
       expansion: ["HOA"]
     }
   },
     {
     name: "Baron Helmut Zemo",
-    img: "lgaQIxW.png",
+    img: "https://i.imgur.com/9mHIVgK.jpg",
     opts: {
       expansion: ["CW"]
     }
   },
     {
     name: "Hybrid",
-    img: "nxNFrnj.png",
+    img: "https://i.imgur.com/zEd48qz.png",
     opts: {
       expansion: ["VN"]
     }
   },
     {
     name: "Hydra High Council",
-    img: "DeVuLMU.png",
+    img: "https://i.imgur.com/2psMFmn.jpg",
     opts: {
       expansion: ["S"]
     }
   },
     {
     name: "King Hyperion",
-    img: "HruqisG.png",
+    img: "https://i.imgur.com/Ak4Bwzy.jpg",
     opts: {
       expansion: ["SW2"]
     }
   },
     {
     name: "Illuminati, Secret Society",
-    img: "JwrTVg3.png",
+    img: "https://i.imgur.com/1xcyRJx.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "Iron Monger",
-    img: "OX6PxkK.png",
+    img: "https://i.imgur.com/vJgT7uM.jpg",
     opts: {
       expansion: ["MS1"]
     }
   },
     {
     name: "J. Jonah Jameson",
-    img: "0p11YUh.png",
+    img: "https://i.imgur.com/VPNcjIq.png",
     opts: {
       expansion: ["DM"]
     }
   },
     {
     name: "King Hulk, Sakaarson",
-    img: "xjEQ3yC.png",
+    img: "https://i.imgur.com/3hwXYxz.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "Macho Gomez",
-    img: "u0GGgP3.png",
+    img: "https://i.imgur.com/gNl0w9l.jpg",
     opts: {
       expansion: ["DP"]
     }
   },
     {
     name: "Madelyne Pryor, Goblin Queen",
-    img: "Z1wfRWT.png",
+    img: "https://i.imgur.com/oQkXIJ1.jpg",
     opts: {
       expansion: ["SW1"]
     }
   },
     {
     name: "Magus",
-    img: "oqXlbQ8.png",
+    img: "https://i.imgur.com/PCNQLVl.jpg",
     opts: {
       expansion: ["ITC"]
     }
   },
     {
     name: "Malekith the Accursed",
-    img: "zAERoy1.png",
+    img: "https://i.imgur.com/Ldt2iWt.jpg",
     opts: {
       expansion: ["HOA"]
     }
   },
     {
     name: "Mandarin",
-    img: "RQIaASJ.png",
+    img: "https://i.imgur.com/I0sStiP.jpg",
     opts: {
       expansion: ["RV"]
     }
   },
     {
     name: "Maria Hill, Director of S.H.I.E.L.D.",
-    img: "8zspPW8.png",
+    img: "https://i.imgur.com/0MMPXjf.jpg",
     opts: {
       expansion: ["CW"]
     }
   },
     {
     name: "Maximus the Mad",
-    img: "MAdHr21.png",
+    img: "https://i.imgur.com/NPsHEJT.png",
     opts: {
       expansion: ["ROK"]
     }
   },
     {
     name: "Misty Knight",
-    img: "hlYCHXE.png",
+    img: "https://i.imgur.com/uwhlSOk.jpg",
     opts: {
       expansion: ["CW"]
     }
   },
     {
     name: "M.O.D.O.K.",
-    img: "vLfiuL2.png",
+    img: "https://i.imgur.com/5KXr78w.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "Mojo",
-    img: "NjJQ2nZ.png",
+    img: "https://i.imgur.com/sIlmyRY.png",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Morgan Le Fay",
-    img: "1TxnaFL.png",
+    img: "https://i.imgur.com/5h43bVw.png",
     opts: {
       expansion: ["AM"]
     }
   },
     {
     name: "Nimrod, Super Sentinel",
-    img: "qabX2ZK.png",
+    img: "https://i.imgur.com/FLZNulc.jpg",
     opts: {
       expansion: ["SW1"]
     }
   },
     {
     name: "Onslaught",
-    img: "6lybFsO.png",
+    img: "https://i.imgur.com/ZKvforo.png",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Pagliacci",
-    img: "RkMSxZ7.png",
+    img: "https://i.imgur.com/hvo7PVV.png",
     opts: {
       expansion: ["CHP"]
     }
   },
     {
     name: "Poison Thanos",
-    img: "3bUPWLb.png",
+    img: "https://i.imgur.com/7Wer6wD.png",
     opts: {
       expansion: ["VN"]
     }
   },
     {
     name: "Charles Xavier, Professor of Crime",
-    img: "lxJRUIR.png",
+    img: "https://i.imgur.com/CHuhpzq.jpg",
     opts: {
       expansion: ["NOIR"]
     }
   },
     {
     name: "Ragnarok",
-    img: "GtiMfAu.png",
+    img: "https://i.imgur.com/By13Vzi.jpg",
     opts: {
       expansion: ["CW"]
     }
   },
     {
     name: "The Red King",
-    img: "eOhVyOR.png",
+    img: "https://i.imgur.com/a2Anfbj.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "General “Thunderbolt” Ross/Red Hulk",
-    img: "3LYM1zy.png",
+    img: "https://i.imgur.com/aCDS6SJ.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "The Sentry/The Void",
-    img: "HHY0rmL.png",
+    img: "https://i.imgur.com/eCxaGyC.jpg",
     opts: {
       expansion: ["WWH"]
     }
   },
     {
     name: "Shadow King",
-    img: "DO2y4Pd.png",
+    img: "https://i.imgur.com/dVKuSLk.png",
     opts: {
       expansion: ["X"]
     }
   },
     {
     name: "Shiklah, the Demon Bride",
-    img: "6QTOWYc.png",
+    img: "https://i.imgur.com/8LfsApV.jpg",
     opts: {
       expansion: ["SW2"]
     }
   },
     {
     name: "Spider-Queen",
-    img: "ZFy4CpU.png",
+    img: "https://i.imgur.com/4GK4deT.jpg",
     opts: {
       expansion: ["SW2"]
     }
   },
     {
     name: "Hydra Super-Adaptoid",
-    img: "nDPNVdU.png",
+    img: "https://i.imgur.com/GjMFFeJ.jpg",
     opts: {
       expansion: ["S"]
     }
   },
     {
     name: "Supreme Intelligence of the Kree",
-    img: "IjYY53Z.png",
+    img: "https://i.imgur.com/vgDLNuq.jpg",
     opts: {
       expansion: ["GG"]
     }
   },
     {
     name: "Thanos",
-    img: "flxCgFX.png",
+    img: "https://i.imgur.com/5cUUpH1.jpg",
     opts: {
       expansion: ["GG"]
     }
   },
     {
     name: "The Goblin, Underworld Boss",
-    img: "Ze8kMip.png",
+    img: "https://i.imgur.com/f3Cgtu5.jpg",
     opts: {
       expansion: ["NOIR"]
     }
   },
     {
     name: "The Hood",
-    img: "C4DDzXN.png",
+    img: "https://i.imgur.com/5J3BxdC.jpg",
     opts: {
       expansion: ["RV"]
     }
   },
     {
     name: "Immortal Emperor Zheng-Zhu",
-    img: "WRx4D3x.png",
+    img: "https://i.imgur.com/CBNAZqg.jpg",
     opts: {
       expansion: ["SW2"]
     }
   },
     {
-    name: "Emperor Vulcan of the Shi'ar",
-    img: "Xlf83U7.png",
-    opts: {
-      expansion: ["ROK"]
-    }
-  },
-    {
     name: "Ultron",
-    img: "GuFyyAo.png",
+    img: "https://i.imgur.com/Cg2PDvr.png",
     opts: {
       expansion: ["AM"]
     }
   },
     {
     name: "Uru-Enchanted Iron Man",
-    img: "6cz6ot8.png",
+    img: "https://i.imgur.com/BmspGPa.jpg",
     opts: {
       expansion: ["FI"]
     }
   },
     {
     name: "Emperor Vulcan of the Shi'ar",
-    img: "JYNLZ93.png",
+    img: "https://i.imgur.com/yuVFXFx.png",
     opts: {
       expansion: ["ROK"]
     }
   },
     {
     name: "Vulture",
-    img: "3C7CnvX.png",
+    img: "https://i.imgur.com/sw1f6wS.png",
     opts: {
       expansion: ["SMH"]
     }
   },
     {
     name: "Wasteland Hulk",
-    img: "u2O6Mx2.png",
+    img: "https://i.imgur.com/x6TeLGy.jpg",
     opts: {
       expansion: ["SW1"]
     }
   },
     {
     name: "Zombie Green Goblin",
-    img: "qNxZmXR.png",
+    img: "https://i.imgur.com/RAGMyGm.jpg",
     opts: {
       expansion: ["SW1"]
     }
   },
     {
+    name: "Iron Monger",
+    img: "https://i.imgur.com/eg4sxdR.jpg",
+    opts: {
+      expansion: ["MS"]
+    }
+  },
+    {
     name: "Arnim Zola",
-    img: "W0Xfdqt.png",
+    img: "https://i.imgur.com/Dcdpl25.jpg",
     opts: {
       expansion: ["CA"]
     },
-
   }
    
 ];

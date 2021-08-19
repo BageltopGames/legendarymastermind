@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .container {
@@ -27,9 +27,9 @@ body {
 .progresstext {
   position: absolute;
   width: 492px;
-  margin: 0px 0px;
+  margin: 3px 0px;
   text-align: center;
-  font-size: .7em;
+  font-size: 0.7em;
 }
 
 .progressfill {
@@ -41,15 +41,15 @@ body {
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 400px  400px;
-  grid-gap: 20px;
-  width: 1250px;
+  grid-template-columns: 250px 1fr 250px;
+  grid-gap: 5px;
+  width: 680px;
 }
 
 .button {
   border: 1px solid black;
   text-align: center;
-  padding: 20%;
+  padding: 10%;
   grid-column: 2 / 3;
   cursor: pointer;
 }
@@ -111,25 +111,24 @@ body {
 }
 
 .sorter > .image {
-  width: 321px;
-  height: 450px;
+  width: 240px;
+  height: 360px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
 }
 
 .sorter > .text {
-  width: 321px;
-  height: 120px;
+  width: 240px;
+  height: 400px;
   display: none;
-  margin: auto;
 }
 
 .sorter > .text > p {
   margin: 0.5em 5px 0px;
-  width: calc(100%-10px);
+  width: calc(70%-10px);
   text-align: center;
-  font-size: 1em;
+  font-size: 0.8em;
   line-height: 1.5em;
 }
 
@@ -149,7 +148,7 @@ body {
   text-align: left;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  width: 900px;
+  width: 450px;
 }
 
 .options > div {
@@ -187,7 +186,7 @@ label:hover {
 }
 
 .results {
-  font-size: 0.50em;
+  font-size: 0.75em;
   display: flex;
   align-content: flex-start;
   width: 80%;
@@ -209,21 +208,21 @@ label:hover {
 }
 
 .result {
-  height: 40px;
-  margin-bottom: auto;
+  height: 15px;
+  margin-bottom: -1px;
   display: grid;
   width: 211px;
   grid-template-columns: repeat(2, 1fr);
   border: 1px solid #000;
-  margin-right: auto;
+  margin-right: 5px;
 }
 
 .result.image {
-  height: 180px;
+  height: 175px;
 }
 
 .result.image img {
-  height: 150px;
+  height: 160px;
 }
 
 .result.spacer {
@@ -238,9 +237,9 @@ label:hover {
 
 .result > .left {
   width: 35px;
-  padding: 0px 3px 1px 0.5em;
+  padding: 1px 3px 1px 0.5em;
   grid-column: 1 / 2;
-  text-align: center;
+  text-align: right;
 }
 
 .result.image .left {
@@ -250,13 +249,13 @@ label:hover {
 .result.image > .left span {
   position: absolute;
   top: 50%;
-  right: 18px;
-  margin-top: auto;
+  right: 3px;
+  margin-top: -0.375em;
 }
 
 .result > .right {
   width: 160px;
-  padding: 0px 0em 1px 0em;
+  padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
   border-left: 1px solid #000;
   text-align: center;
