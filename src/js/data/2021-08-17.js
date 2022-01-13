@@ -34,7 +34,7 @@ dataSet[dataSetVersion].options = [
 	  { name: "Heroes of Asgard", key: "HOA" },
 	  { name: "The New Mutants", key: "NM" },
 	  { name: "Into the Cosmos", key: "ITC" },
-	  { name: "Realm of Kings", key: "ROK" } 
+	  { name: "Realm of Kings", key: "ROK" }
     ]
   }
   ];
@@ -42,119 +42,119 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Doctor Doom",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-doom-01.jpg",
+    img: "https://i.imgur.com/oF8NBSL.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Magneto",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/magneto-01.jpg",
+    img: "https://i.imgur.com/WOozHHk.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Loki",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/loki-01.jpg",
+    img: "https://i.imgur.com/NBIxkb4.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Red Skull",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/red-skull-01.jpg",
+    img: "https://i.imgur.com/AiRgqgP.jpg",
     opts: {
       expansion: ["C"]
     }
   },
    {
     name: "Galactus",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/galactus-01.jpg",
+    img: "https://i.imgur.com/V3g3MNA.jpg",
     opts: {
       expansion: ["F4"]
     }
   },
    {
     name: "Mole Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/mole-man-01.jpg",
+    img: "https://i.imgur.com/biQ96VW.jpg",
     opts: {
       expansion: ["F4"]
     }
   },
    {
     name: "Apocalypse",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/apocalypse-01.jpg",
+    img: "https://i.imgur.com/Xm26XdI.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Carnage",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/carnage-01.jpg",
+    img: "https://i.imgur.com/m1o0Ug1.jpg",
     opts: {
       expansion: ["PTTR"]
     }
   },
    {
     name: "Doctor Strange",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/dr-strange-01.jpg",
+    img: "https://i.imgur.com/Q07eY5D.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Kingpin",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/kingpin-01.jpg",
+    img: "https://i.imgur.com/Vaadaen.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mephisto",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/mephisto-01.jpg",
+    img: "https://i.imgur.com/P6Rhpy9.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mr. Sinister",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/mr-sinister-01.jpg",
+    img: "https://i.imgur.com/k1yRPvF.jpg",
     opts: {
       expansion: ["DC"]
     }
   },
    {
     name: "Mysterio",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/mysterio-01-1.jpg",
+    img: "https://i.imgur.com/3UViAZx.jpg",
     opts: {
       expansion: ["PTTR"]
     }
   },
    {
     name: "Nick Fury",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/nick-fury-01-1.jpg",
+    img: "https://i.imgur.com/OSXoAhN.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Odin",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/odin-01.jpg",
+    img: "https://i.imgur.com/UHYQLrP.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Professor X",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/professor-x-01-1.jpg",
+    img: "https://i.imgur.com/qCR6GaX.jpg",
     opts: {
       expansion: ["V"]
     }
   },
    {
     name: "Stryfe",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/stryfe-01.jpg",
+    img: "https://i.imgur.com/NAGs35H.jpg",
     opts: {
       expansion: ["DC"]
     }
@@ -175,7 +175,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Authoritarian Iron Man",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/authoritarian-iron-man-01.jpg",
+    img: "https://i.imgur.com/6mPbNxZ.jpg",
     opts: {
       expansion: ["CW"]
     }
@@ -224,7 +224,7 @@ dataSet[dataSetVersion].characterData = [
   },
     {
     name: "Fin Fang Foom",
-    img: "https://marveldbg.com/wp-content/uploads/2019/09/fin-fang-foom-01.png",
+    img: "https://i.imgur.com/eZ96qed.png",
     opts: {
       expansion: ["CHP"]
     }
@@ -572,5 +572,5 @@ dataSet[dataSetVersion].characterData = [
       expansion: ["CA"]
     },
   }
-   
+
 ];
